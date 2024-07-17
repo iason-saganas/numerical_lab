@@ -8,7 +8,7 @@ We define the following integrals which we analyze in the first chapters of the 
 
 ![equation](https://latex.codecogs.com/svg.image?%5Ccolor%7Bwhite%7DI_3=%5Cint_%7B0%7D%5E%7B1%7D%5Cmathrm%7Bd%7Dx%5Chspace%7B1mm%7De%5E%7B-x%5E2%7D=0.746824132812427)
 
-![equation](https://latex.codecogs.com/svg.image?%5Ccolor%7Bwhite%7DI_4=%5Cint_%7B0%7D%5E%7B1%7D%5Cmathrm%7Bd%7Dx%5Chspace%7B1mm%7D%5Cfrac%7B1%7D%7B1&plus;x%5E2%7D=1.32581766366803)
+![equation](https://latex.codecogs.com/svg.image?%5Ccolor%7Bwhite%7DI_4=%5Cint_%7B0%7D%5E%7B4%7D%5Cmathrm%7Bd%7Dx%5Chspace%7B1mm%7D%5Cfrac%7B1%7D%7B1&plus;x%5E2%7D=1.32581766366803)
 
 
 The tables contain, under variation of the interval number n as powers of 2, the area approximation in the 1st row, the error in the 2nd row and the error ratio in the 3rd.
